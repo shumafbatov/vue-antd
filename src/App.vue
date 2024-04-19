@@ -5,9 +5,3 @@ import ReportCard from "@/components/cards/ReportCard.vue";
 <template>
   <ReportCard />
 </template>
-
-<style scoped>
-main {
-  width: 100%;
-}
-</style>
